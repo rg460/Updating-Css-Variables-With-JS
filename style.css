@@ -9,6 +9,9 @@ img{
     filter:blur(var(--blur));
     
 }
+.hl{
+    color: var(--base);
+}
 body{
     text-align: center;
     background: #193549;
